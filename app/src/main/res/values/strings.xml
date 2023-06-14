@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Semestralka_JozefFiala</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_calendar">Calendar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="pridaj_poznamku">Pridaj Poznamku</string>
+    <string name="napis_poznamku">Napíš poznámku</string>
+    <string name="napis_cas">Napíš čas</string>
+    <string name="button_na_pridanie_poznamok_v_todoliste">button_na_pridanie_poznamok_v_ToDoListe</string>
+    <string name="button_na_pridanie_poznamky_v_todoliste">Button na pridanie poznamky v ToDoListe</string>
+    <string name="todolist">to_do_list</string>
+    <string name="title_activity_pridanie_do_to_do_listu">PridanieDoToDoListu</string>
+    <string name="vyber_si_d_tum_pre_poznamku">Vyber si dátum pre poznamku</string>
+    <string name="datum_text">Dátum</string>
+    <string name="napis_udalost">Napíš udalosť</string>
+    <string name="nazov_udalosti">Názov Udalosti</string>
+    <string name="cas_text">čas</string>
+    <string name="nie_su_poznamky">Žiadne poznámky ku konkrétnemu dňu</string>
+    <string name="vyber_si_svoj_cas">Vyber si svoj čas</string>
+    <string name="uloz">Ulož</string>
+    <string name="Description_ButtonPreDatum">Button podľa ktorého sa pristúpni kalendár a používateľ si môže vybrať čas</string>
+    <string name="Description_Button_vyberCas">Button ktorý slúží na vybranie času</string>
+    <string name="Description_button_na_vymazanie_poznamky">Button na vymazanie poznamky</string>
+    <string name="drawer_text_semestralnapraca">Semestrálna Práca</string>
+    <string name="jozef_fiala">Jozef Fiala</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/calendarFragment">
+
+    <fragment
+        android:id="@+id/calendarFragment"
+        android:name="com.example.semestralka_jozeffiala.Calendar"
+        android:label="Calendar"
+        tools:layout="@layout/fragment_kalendar" />
+    <fragment
+        android:id="@+id/toDolistFragment"
+        android:name="com.example.semestralka_jozeffiala.Todolist"
+        android:label="Todolist"
+        tools:layout="@layout/fragment_todolist" />
+    <action
+        android:id="@+id/action_to_calendarFragment"
+        app:destination="@id/calendarFragment" />
+    <action
+        android:id="@+id/action_to_home"
+        app:destination="@+id/nav_home" />
+    <action
+        android:id="@+id/action_to_todolist"
+        app:destination="@+id/toDolistFragment" />
+</navigation>
